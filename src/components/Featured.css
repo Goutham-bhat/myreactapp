@@ -1,0 +1,23 @@
+    /* src/components/Featured.css */
+.featured {
+    margin: 2rem 0;
+    padding: 0 2rem;
+}
+
+.featured-banner {
+    background-color: #0056b3;
+    color: white;
+    padding: 2rem;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.featured-banner h2 {
+    margin: 0;
+    font-size: 2rem;
+}
+
+.featured-banner p {
+    margin: 0.5rem 0 0;
+    font-size: 1.2rem;
+}

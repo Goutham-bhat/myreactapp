@@ -1,0 +1,2 @@
+
+I wanta list where the details are appended when we register in registerpage. and then after we register it should go back to login page and then when we sign in using any user id and password pair in the list. we go to the home page.
